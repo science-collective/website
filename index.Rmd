@@ -1,0 +1,46 @@
+--- 
+title: "A Science Collective"
+subtitle: "A decentralized organization built for researchers, by researchers"
+author: 
+- Luke W. Johnston
+- Daniel R. Witte
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+description: ""
+---
+
+# Welcome!
+
+Science has brought humanity immeasurable knowledge and progress. However, the
+way we currently organise scientific research is overly constrained by
+inefficiencies in the research cycle and by bureaucratic and administrative
+limitations imposed by traditional research organisations, publishers, funders,
+and career structures. Scientists face major challenges in achieving some of the
+basic tenets of the scientific method leading to the 'reproducibility crisis'
+and the decline in public trust in science.
+
+We want to bring together a community of scientists interested in developing a
+new global and decentralised and autonomous research organisation. The ambition
+is that this organisation will develop and provide decentral resources to allow
+scientists to work and collaborate outside the constraints of the current
+academic model and that it will foster a global community committed to
+addressing the shortcomings of current scientific research practices.
+
+Our *vision* is to achieve better science for the world by creating the
+technical and social environment that scientists need to carry out genuinely
+collaborative, open and accessible science.
+
+Our *mission* is to design solutions, build tools, educate and cultivate a
+decentralized community of scientists motivated by this vision.
+
+```{r include=FALSE, eval=FALSE}
+# TODO: Deal with this later.
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

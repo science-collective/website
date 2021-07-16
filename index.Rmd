@@ -15,27 +15,47 @@ description: ""
 
 # Welcome!
 
-Science has brought humanity immeasurable knowledge and progress. However, the
-way we currently organise scientific research is overly constrained by
-inefficiencies in the research cycle and by bureaucratic and administrative
-limitations imposed by traditional research organisations, publishers, funders,
-and career structures. Scientists face major challenges in achieving some of the
-basic tenets of the scientific method leading to the 'reproducibility crisis'
-and the decline in public trust in science.
+This website outlines a plan for a new global, decentralised and autonomous scientific research organisation: 'a Science Collective'.
 
-We want to bring together a community of scientists interested in developing a
-new global and decentralised and autonomous research organisation. The ambition
-is that this organisation will develop and provide decentral resources to allow
-scientists to work and collaborate outside the constraints of the current
-academic model and that it will foster a global community committed to
-addressing the shortcomings of current scientific research practices.
+Below we outline why we think 'a Science Collective' is necessary, what our vision and mission are, what our plan is for setting up 'a Science Collective' and how you can participate and contribute.
 
-Our *vision* is to achieve better science for the world by creating the
-technical and social environment that scientists need to carry out genuinely
-collaborative, open and accessible science.
+## Why is 'a Science Collective' necessary? Because the way we do science is broken..
 
-Our *mission* is to design solutions, build tools, educate and cultivate a
-decentralized community of scientists motivated by this vision.
+Science has brought humanity immeasurable knowledge and progress. But the way we currently organise scientific research is overly constrained by inefficiencies in the research cycle and by bureaucratic and administrative limitations imposed by traditional research organisations, publishers, funders, and career structures. Scientists face major challenges in achieving some of the basic tenets of the scientific method leading to the 'reproducibility crisis' and the decline in public trust in science.
+
+We want to bring together a community of scientists interested in developing a new global, decentralised and autonomous science organisation: 'a Science Collective'.
+
+## Our Vision, Mission and Ambition
+
+Our *vision* is to achieve better science for the world by creating the technical and social environment that scientists need to carry out genuinely collaborative, open, reproducible and accessible science.
+
+Our *mission* is to design solutions, build tools, educate and cultivate a decentralised community of scientists motivated by the vision.
+
+Our *ambition* is that 'a Science Collective' will become a thriving organisation where scientists work and collaborate outside the constraints of the current academic model and that it will foster a global community committed to addressing the shortcomings of current scientific research practices.
+
+## The Plan
+
+We are in the earliest stages of 'a Science Collective' and we are very aware that creating a new organisation requires a lot of work and coordination. This is why we want to start by creating a community of people who feel connected to the vision and ideas. In 2021 and 2022 we want to organise online seminars and working groups to discuss the different dimensions of the problems we are trying to address as well as to focus the plan and turn to execution.
+
+## Who are we?
+The team behind 'a Science Collective' is really small (for now). We are scientists working with health data related mostly to diabetes; but the ambition of 'a Science Collective' is by no means limited to this field.
+
+We are strong believers in the scientific method, just critical of the way scientific research is currently organised and executed.  
+
+```{r include=FALSE, eval=FALSE}
+# TODO: Include a link to a document (or chapter) outlining the ASC values
+```
+
+## What can you do to learn more?
+Have a look at our GitHub: https://github.com/science-collective
+Follow us on Twitter: @ASC_Science
+
+## I want to be part of this! What can I do?
+- Reach out to us and join the discusion! Share your views and hear more about ours.
+- Have a look at the open tasks on our GitHub and see if you feel like contributing to one of them.
+- Help us improve this website. Tell us what information you'd like to see here, or perhaps even write drafts for new sections.
+- Help us organise one of the upcoming online seminars.
+
 
 ```{r include=FALSE, eval=FALSE}
 # TODO: Deal with this later.

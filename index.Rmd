@@ -15,15 +15,19 @@ description: ""
 
 # Welcome!
 
-This website outlines a plan for a new global, decentralised and autonomous scientific research organisation: 'a Science Collective'.
+This site outlines a plan for a new global, decentralised and autonomous scientific research organisation: 'a Science Collective'.
 
 Below we outline why we think 'a Science Collective' is necessary, what our vision and mission are, what our plan is for setting up 'a Science Collective' and how you can participate and contribute.
 
-## Why is 'a Science Collective' necessary? Because the way we do science is broken..
+## Why is 'a Science Collective' necessary?
 
-Science has brought humanity immeasurable knowledge and progress. But the way we currently organise scientific research is overly constrained by inefficiencies in the research cycle and by bureaucratic and administrative limitations imposed by traditional research organisations, publishers, funders, and career structures. Scientists face major challenges in achieving some of the basic tenets of the scientific method leading to the 'reproducibility crisis' and the decline in public trust in science.
+**Because the way we do science is broken..**
+
+Science has brought humanity immeasurable knowledge and progress. But the way we currently organise scientific research is overly constrained by inefficiencies in the research cycle and by bureaucratic and administrative limitations imposed by traditional research organisations, publishers, funders, and career structures. Scientists face major challenges in achieving some of the basic tenets of the scientific method leading to the 'reproducibility crisis' and an ongoing decline in public trust in science. 
 
 We want to bring together a community of scientists interested in developing a new global, decentralised and autonomous science organisation: 'a Science Collective'.
+
+Read more on [why 'a Science Collective' is necessary](00-background.html)
 
 ## Our Vision, Mission and Ambition
 
@@ -47,8 +51,8 @@ We are strong believers in the scientific method, just critical of the way scien
 ```
 
 ## What can you do to learn more?
-Have a look at our GitHub: https://github.com/science-collective
-Follow us on Twitter: @ASC_Science
+- Have a look at our GitHub: https://github.com/science-collective
+- Follow us on Twitter: @ASC_Science
 
 ## I want to be part of this! What can I do?
 - Reach out to us and join the discusion! Share your views and hear more about ours.

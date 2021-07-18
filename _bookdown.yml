@@ -2,4 +2,9 @@ book_filename: "website"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Chapter"
+rmd_files:
+    - "index.Rmd"
+    - "00-background.Rmd"
+    - "00-history.Rmd"
+    - "00-better-science.Rmd"

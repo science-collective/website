@@ -1,0 +1,8 @@
+# 'a Science Collective' for Better Science
+We believe that science can make faster progress, use resources more efficiently, and can be a more rewarding experience for scientists if they could follow their curiosity in a constructive, collaborative and efficient research environment which is kept as free as possible from legacy traditional research structures. 
+
+We believe that people with scientific interest should be stimulated and supported to pursue their curiosity, also as a part-time effort beside other occupations or as a full-time scientist working independently from the existing institutional model. This would leverage the enormous potential talent that is available, as is already done in open source software communities.
+
+We want to achieve this by creating a new type of autonomous, decentralised research organisation that is committed to the highest standards of the scientific method, helps scientists thrive as part of a global community, stimulates new connections, fosters open research collaborations  and provides key infrastructure (decentral governance, finance, computational and IT resources). This organisation will also strive to include non-traditional scientists: people who are eager to learn, participate in and contribute to science but have not followed, or have left a career in academia or commercial research.
+
+

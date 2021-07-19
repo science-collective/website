@@ -6,5 +6,5 @@ bookdown::bs4_book:
     #     before_body:
     #         - "resources/contribute.html"
     repo:
-        base: "https://gitlab.com/science-collective/website"
+        base: "https://github.com/science-collective/website"
         branch: main

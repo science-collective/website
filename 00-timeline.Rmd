@@ -1,17 +1,21 @@
 # Timeline
 
 ## Medium Term
+
 * July 2021:
 -     Register domain name, Discord server and Twitter handle
 -     Create GitLab repo and webpage
 -     Publication of the Version 0 draft manifesto for 'a Science Collective' 
+
 * August 2021:
 -     Invitation to engage and participate in online brainstorming on the vision, mission and aims outlined in the draft manifesto (through social media and research networks).
 -     Identification of areas that lack detail, focus or definition.
 -     Send out invitations to speak at half-day online conference (28-10-2021).
+
 * September 2021:
 -     Update of manifesto based on wider review and feedback: V1.0
 -     Practical organisation of half day conference (28-10-2021)
+
 * October 2021:
 -     **Half-day online conference (28-10-2021. from 16:00-20:00 CET) with workshops on topics such as:**
 -     Better publication, 
@@ -24,10 +28,12 @@
 -     Governance of the Science-Collective
 -     Building resources for the Science-Collective
 -     Definition of concrete showcase projects
+
 * November-December 2021:
 -     Work on showcase projects in the different teams
 
 ## Longer Term
+
 * Start fleshing out the Bookdown site with:
 -     Further edits to Vision, Mission and more time planning
 -     More detailed description and specification of the plans and showcase projects
@@ -44,4 +50,6 @@
 -     Explore if there is sufficient interest for a reading/jounal club or a regular lecture series
 -     Start developing specific documentation of internal processes and onboarding materials
 -     Start developing educational materials at different levels
+
+
 

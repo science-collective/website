@@ -2,9 +2,9 @@ bookdown::bs4_book:
     theme:
         primary: "#0050B3"
         # colorspace::diverge_hcl(12, h = c(246, 40), c = 96)
-    # includes:
-    #     before_body:
-    #         - "resources/contribute.html"
+    includes:
+        before_body:
+            - "resources/contribute.html"
     repo:
         base: "https://github.com/science-collective/website"
         branch: main

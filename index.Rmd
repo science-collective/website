@@ -15,7 +15,7 @@ description: ""
 
 # Welcome!
 
-This site outlines a plan for a new global, decentralised and autonomous scientific research organisation: 'a Science Collective'.
+This site outlines a plan for a global, decentralised and autonomous scientific research organisation: 'a Science Collective'.
 
 Below we outline why we think 'a Science Collective' is necessary, what our vision and mission are, what our plan is for setting up 'a Science Collective' and how you can participate and contribute.
 

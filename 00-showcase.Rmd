@@ -1,0 +1,8 @@
+# Showcase projects
+In order to explore the possibilities of autonomous collaborative research, one concrete objective is to learn by trying. We aim to identify 5-10 projects that can be used to showcase how 'a Science Collective' can lead to innovative science through collaboration. In first instance we envision projects that are based on extant publicly available data and that can be published within 6-12 months as fully open, documented and reproducible documents. In the longer term projects that require acquisition of new data or require a fee for data access could be considered
+
+The process of working on these showcase projects will be documented, in order to learn about challenges and obstacles, and to define the next set of developmental aims for 'a Science Collective' from this experience.
+
+Once finished, the projects will be showcased on the Science-Collective website as early examples of what can be achieved and will be used in presentations aimed at raising further interest. We hope that the showcase projects will arise from the community and that teams from different disciplines will emerge.
+
+

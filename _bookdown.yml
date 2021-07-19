@@ -8,3 +8,5 @@ rmd_files:
     - "00-background.Rmd"
     - "00-history.Rmd"
     - "00-better-science.Rmd"
+    - "00-timeline.Rmd"
+    - "00-showcase.Rmd"

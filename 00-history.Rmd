@@ -3,12 +3,11 @@ The institutional systems that currently structure how science is carried out ha
 
 The poor state of the structures of science can be thought of as the 'law of unintended consequences': although the motivation behind each component of the system may have made sense from a narrow perspective at a certain point in time, the sum of these systems are now producing unintended results.
 
-As an example, we can look at the historical development of the publication of academic journals.
 
 ```{r include=FALSE, eval=FALSE}
 # TODO: Insert a few examples of structures that once made sense from a narrow perspective but now are at the root of the problems with the institutions of science
 
-As an example, we can look at the historical development of the publication of academic journals.
+# As an example, we can look at the historical development of the publication of academic journals.
 
 ```
 

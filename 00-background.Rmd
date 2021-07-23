@@ -1,17 +1,21 @@
+# Why is 'a Science Collective' necessary? {#why-needed}
 
-# Why is 'a Science Collective' necessary?
 Science is one of the most fundamental drivers of human development. People are drawn to it by curiosity, a wish to understand the world and to help humanity solve its problems. Unfortunately, many of the current structures in science are arguably not fit for purpose. This is not only inefficient but it can lead to dangerously wrong conclusions. Below we examine a few of these problems in order to understand why we need 'a Science Collective'.
 
 ## Science is carried out in bureaucratic institutions
+
 Science in the 21st century is institutionalised. It is carried out in academia, government-run organisations or for-profit companies. This often leads to narrow and politically/economically driven agendas and to stifling bureaucracies. It also limits those who are outside these institutions from participating and contributing to science.
 
 ## Scientific publication follows a for-profit model
+
 Scientific publication is still organised with a for-profit model that imposes paywalls and other barriers while profiting from public funding of science and unpaid academic input in the form of submissions and peer-review. For-profit publishers also actively work to maintain the status quo of the research cycle by perpetuating the focus on publication and citation metrics.
 
 ## Careers and funding depend on metrics
+
 Scientific careers and funding decisions are evaluated by metrics (publication quantity / citations / impact factors / prior funding) and have a bias towards certain output types (journal papers versus education, code or curated data). Even though funding bodies claim to seek innovation, the incentives imposed by the metrics-based assessments encourage a low-risk incremental approach with a narrow focus. Innovation is often confused with novelty (unexpected results that get attention in the media). Researchers understand that it pays off to follow the current hot topics and trends rather than to go after true innovation.
 
 ## Incentives of the current system are misaligned
+
 Taken together, the incentives of the current system do not reward behaviours that are central to the conceptual foundations of the scientific method:
 
 - **Replication studies are undervalued:** They are not seen as innovative, nor do they often give impactful findings, and so are difficult to publish in the current publication system. Therefore there is no incentive or pressure to conduct them.
@@ -23,5 +27,6 @@ Taken together, the incentives of the current system do not reward behaviours th
 - **Funding for non-traditional activities is difficult to obtain:** Making data and code follow FAIR principles, building modern IT infrastructure, creating formal training programs for technical skills, or hiring highly skilled technical personnel are expensive and time consuming, but because project budgets need to be focused toward directly measurable outputs, researchers are generally discouraged from including them in research budgets. 
 
 ## People working in science get discouraged by the current system
+
 These shortcomings of the current scientific/academic system not only lead to a general degradation in quality of the scientific output and wasted resources; they also affect the people who were drawn to science by curiosity. Many become disenfranchised and demotivated, often leaving academia and science. People who stay and are successful are often the ones who understand how to thrive in the current incentive system and are best at 'playing the game'.
 

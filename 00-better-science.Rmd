@@ -1,13 +1,29 @@
 # 'a Science Collective' for Better Science
-We believe that science can make faster progress, use resources more efficiently, and can be a more rewarding experience for scientists if they could follow their curiosity in a constructive, collaborative and efficient research environment which is kept as free as possible from legacy traditional research structures. 
 
-We believe that people with scientific interest should be stimulated and supported to pursue their curiosity, also as a part-time effort beside other occupations or as a full-time scientist working independently from the existing institutional model. This would leverage the enormous potential talent that is available, as is already done in open source software communities.
+We believe that science can make faster progress, use resources more
+efficiently, and can be a more rewarding experience for scientists if they
+could follow their curiosity in a constructive, collaborative and efficient
+research environment which is kept as free as possible from legacy traditional
+research structures.
 
-We want to achieve this by creating a new type of autonomous, decentralised research organisation that is committed to the highest standards of the scientific method, helps scientists thrive as part of a global community, stimulates new connections, fosters open research collaborations  and provides key infrastructure (decentral governance, finance, computational and IT resources). This organisation will also strive to include non-traditional scientists: people who are eager to learn, participate in and contribute to science but have not followed, or have left a career in academia or commercial research.
+We believe that people with scientific interest should be stimulated and
+supported to pursue their curiosity, also as a part-time effort beside other
+occupations or as a full-time scientist working independently from the existing
+institutional model. This would leverage the enormous potential talent that is
+available, as is already done in open source software communities.
+
+We want to achieve this by creating a new type of autonomous, decentralised
+research organisation that is committed to the highest standards of the
+scientific method, helps scientists thrive as part of a global community,
+stimulates new connections, fosters open research collaborations and provides
+key infrastructure (decentral governance, finance, computational and IT
+resources). This organisation will also strive to include non-traditional
+scientists: people who are eager to learn, participate in and contribute to
+science but have not followed, or have left a career in academia or commercial
+research.
 
 ## Values for Better Science
+
 - Scientific output should be diverse and not limited to publications. Documented datasets, code, educational material, public outreach, and other dissemination outlets (e.g. blogs, protocols, peer-review reports) are just as valuable and necessary. We believe all these outputs should be equally acknowledged.
 - Scientific output should be openly licensed and accessible. Common licenses (CC, MIT) and repositories (OSF, GitHub, Zenodo, figshare) should be used widely.
 - Scientific results should be fully and independently reproducible. If data can’t be shared for privacy or legal reasons, a simulated dataset that mimics the original data should be provided with the open source analysis code. Reproducibility should be easy to carry out and should be well documented.
-
-

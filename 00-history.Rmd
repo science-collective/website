@@ -1,7 +1,13 @@
 # How did the system of science get so misaligned?
-The institutional systems that currently structure how science is carried out have never been designed to work together, for efficiency or for over-all societal benefit; they have grown historically by adapting to different shifting scientific, technological and societal challenges.
+The institutional systems that currently structure how science is carried out
+have never been designed to work together, for efficiency or for over-all
+societal benefit; they have grown historically by adapting to different
+shifting scientific, technological and societal challenges.
 
-The poor state of the structures of science can be thought of as the 'law of unintended consequences': although the motivation behind each component of the system may have made sense from a narrow perspective at a certain point in time, the sum of these systems are now producing unintended results.
+The poor state of the structures of science can be thought of as the 'law of
+unintended consequences': although the motivation behind each component of the
+system may have made sense from a narrow perspective at a certain point in
+time, the sum of these systems are now producing unintended results.
 
 
 ```{r include=FALSE, eval=FALSE}
@@ -12,14 +18,23 @@ The poor state of the structures of science can be thought of as the 'law of uni
 ```
 
 ## The digital age offers new opportunities
-The digital era has brought profound disruption to many industries by making the distribution of information virtually costless and reducing the need for rent seeking intermediaries. However, this development has yet to impact academic publishing. Even though most publishers now use digital processing systems and publish manuscripts digitally, they have simply ported the old system in which they play a controlling role to the digital medium for more efficient distribution. If we took a step back and asked how we could we best organise the distribution and storage of new scientific findings, software and data, given all the digital tools at our disposal, the answer would not be the current academic publication business.
+The digital era has brought profound disruption to many industries by making
+the distribution of information virtually costless and reducing the need for
+rent seeking intermediaries. However, this development has yet to impact
+academic publishing. Even though most publishers now use digital processing
+systems and publish manuscripts digitally, they have simply ported the old
+system in which they play a controlling role to the digital medium for more
+efficient distribution. If we took a step back and asked how we could we best
+organise the distribution and storage of new scientific findings, software and
+data, given all the digital tools at our disposal, the answer would not be the
+current academic publication business.
 
-The digital era has also forced massive and rapid changes to the way we do science, by increasing the technical ability required to measure, record and analyse previously unimaginable quantities of data and the ability to access enormous volumes of literature/data and to work remotely.
+The digital era has also forced massive and rapid changes to the way we do
+science, by increasing the technical ability required to measure, record and
+analyse previously unimaginable quantities of data and the ability to access
+enormous volumes of literature/data and to work remotely.
 
-The consequences of these developments are only starting to take shape. 'a Science Collective' aims to be at the forefront of reimagining the way we organise science for this century, taking full advantage of all the options the digital age offers.
-
-
-
-
-
-
+The consequences of these developments are only starting to take shape. 'a
+Science Collective' aims to be at the forefront of reimagining the way we
+organise science for this century, taking full advantage of all the options the
+digital age offers.

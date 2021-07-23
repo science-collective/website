@@ -21,9 +21,9 @@ Below we outline why we think 'a Science Collective' is necessary, what our visi
 
 ## Why is 'a Science Collective' necessary?
 
-**Because the way we do science is broken..**
+**Because the way we do science is broken.**
 
-Science has brought humanity immeasurable knowledge and progress. But the way we currently organise scientific research is overly constrained by inefficiencies in the research cycle and by bureaucratic and administrative limitations imposed by traditional research organisations, publishers, funders, and career structures. Scientists face major challenges in achieving some of the basic tenets of the scientific method leading to the 'reproducibility crisis' and an ongoing decline in public trust in science. 
+Science has brought humanity immeasurable knowledge and progress. But the way we currently organise scientific research is overly constrained by inefficiencies in the research cycle and by bureaucratic and administrative limitations imposed by traditional research organisations, publishers, funders, and career structures. Scientists face major challenges in achieving some of the basic tenets of the scientific method leading to the 'reproducibility/replicability crisis' and an ongoing decline in public trust in science. 
 
 We want to bring together a community of scientists interested in developing a new global, decentralised and autonomous science organisation: 'a Science Collective'.
 
@@ -42,6 +42,7 @@ Our *ambition* is that 'a Science Collective' will become a thriving organisatio
 We are in the earliest stages of 'a Science Collective' and we are very aware that creating a new organisation requires a lot of work and coordination. This is why we want to start by creating a community of people who feel connected to the vision and ideas. In 2021 and 2022 we want to organise online seminars and working groups to discuss the different dimensions of the problems we are trying to address as well as to focus the plan and turn to execution.
 
 ## Who are we?
+
 The team behind 'a Science Collective' is really small (for now). We are scientists working with health data related mostly to diabetes; but the ambition of 'a Science Collective' is by no means limited to this field.
 
 We are strong believers in the scientific method, just critical of the way scientific research is currently organised and executed.  
@@ -51,15 +52,13 @@ We are strong believers in the scientific method, just critical of the way scien
 ```
 
 ## What can you do to learn more?
-- Have a look at our GitHub: https://github.com/science-collective
-- Follow us on Twitter: @ASC_Science
+
+- Have a look at our [GitHub](https://github.com/science-collective)
+- Follow us on Twitter: [@ASC_Science](https://twitter.com/ASC_Science)
 
 ## I want to be part of this! What can I do?
-- Reach out to us and join the discusion! Share your views and hear more about ours.
-- Have a look at the open tasks on our GitHub and see if you feel like contributing to one of them.
-- Help us improve this website. Tell us what information you'd like to see here, or perhaps even write drafts for new sections.
-- Help us organise one of the upcoming online seminars.
 
+Read our [How to Contribute]() document for more details.
 
 ```{r include=FALSE, eval=FALSE}
 # TODO: Deal with this later.

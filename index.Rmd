@@ -40,7 +40,7 @@ new global, decentralised and autonomous science organisation: 'a Science
 Collective'.
 
 Read more on [why 'a Science Collective' is
-necessary](why-is-a-science-collective-necessary-1.html)
+necessary](why-necessary.html)
 
 ## Our Vision, Mission and Ambition
 
@@ -54,7 +54,9 @@ decentralised community of scientists motivated by the vision.
 Our *ambition* is that 'a Science Collective' will become a thriving
 organisation where scientists work and collaborate outside the constraints of
 the current academic model and that it will foster a global community committed
-to addressing the shortcomings of current scientific research practices.
+to addressing the shortcomings of current scientific research practices. At the 
+very least, we hope our efforts will provide strong pressure on the current 
+system to moving in a better direction.
 
 ## The Plan
 

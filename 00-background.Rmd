@@ -1,38 +1,42 @@
-# Why is 'a Science Collective' necessary? {#why-needed}
+# Why is 'a Science Collective' necessary? {#why-necessary}
 
 Science is one of the most fundamental drivers of human development. People are
-drawn to it by curiosity, a wish to understand the world and to help humanity
+drawn to it by curiosity, a wish to understand the world, and to help humanity
 solve its problems. Unfortunately, many of the current structures in science
-are arguably not fit for purpose. This is not only inefficient but it can lead
+are arguably not fit for purpose. They are not only inefficient but can lead
 to dangerously wrong conclusions. Below we examine a few of these problems in
 order to understand why we need 'a Science Collective'.
 
 ## Science is carried out in bureaucratic institutions
 
 Science in the 21st century is institutionalised. It is carried out in
-academia, government-run organisations or for-profit companies. This often
+academia, government-run organisations, or for-profit companies. This often
 leads to narrow and politically/economically driven agendas and to stifling
 bureaucracies. It also limits those who are outside these institutions from
-participating and contributing to science.
+participating and contributing to science in meaningful ways.
+Institutions on their own aren't necessarily bad, but when top-level
+decisions are made by people unfamiliar with the scientific process and the
+needs of scientists, than the institution becomes a barrier rather than a support.
 
 ## Scientific publication follows a for-profit model
 
 Scientific publication is still organised with a for-profit model that imposes
 paywalls and other barriers while profiting from public funding of science and
 unpaid academic input in the form of submissions and peer-review. For-profit
-publishers also actively work to maintain the status quo of the research cycle
-by perpetuating the focus on publication and citation metrics.
+publishers actively work to maintain the status quo of the research cycle
+by perpetuating the focus on publication and citation metrics as indicators
+of "impact".
 
 ## Careers and funding depend on metrics
 
 Scientific careers and funding decisions are evaluated by metrics (publication
-quantity / citations / impact factors / prior funding) and have a bias towards
-certain output types (journal papers versus education, code or curated data).
+quantity / citations / impact factors / prior funding / h-index) and have a bias towards
+certain output types (journal papers versus education, code, or curated data).
 Even though funding bodies claim to seek innovation, the incentives imposed by
 the metrics-based assessments encourage a low-risk incremental approach with a
 narrow focus. Innovation is often confused with novelty (unexpected results
 that get attention in the media). Researchers understand that it pays off to
-follow the current hot topics and trends rather than to go after true
+follow the current hot topics and trends rather than to go after true, though higher-risk,
 innovation.
 
 ## Incentives of the current system are misaligned

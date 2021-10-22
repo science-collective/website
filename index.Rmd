@@ -56,7 +56,7 @@ organisation where scientists work and collaborate outside the constraints of
 the current academic model and that it will foster a global community committed
 to addressing the shortcomings of current scientific research practices. At the 
 very least, we hope our efforts will provide strong pressure on the current 
-system to moving in a better direction.
+system to move in a better direction.
 
 ## The Plan
 
@@ -83,11 +83,11 @@ scientific research is currently organised and executed.
 ## What can you do to learn more?
 
 - Have a look at our [GitHub](https://github.com/science-collective)
-- Follow us on Twitter: [@ASC_Science](https://twitter.com/ASC_Science)
+- Follow us on Twitter: [\@ASC_Science](https://twitter.com/ASC_Science)
 
 ## I want to be part of this! What can I do?
 
-Read our [How to Contribute]() document for more details.
+Read our [How to Contribute](https://github.com/science-collective/website/blob/main/.github/CONTRIBUTING.md) document for more details.
 
 ```{r include=FALSE, eval=FALSE}
 # TODO: Deal with this later.

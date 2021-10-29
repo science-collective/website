@@ -7,3 +7,5 @@ Imports:
     bslib,
     downlit,
     xml2
+Suggests: 
+    fontawesome

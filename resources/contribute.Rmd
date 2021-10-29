@@ -1,0 +1,18 @@
+---
+output: html_fragment
+---
+
+::: {.alert .alert-info}
+
+`r fontawesome::fa("far fa-comments")` **Interested in getting involved or contributing in some way?**
+
+Check out our [Contributing Documentation](https://github.com/science-collective/website/blob/main/.github/CONTRIBUTING.md) 
+for more details about how to get involved.
+
+On `r fontawesome::fa("fab fa-github")` GitHub open an 
+[issue](https://github.com/science-collective/website/issues)
+or submit a [pull request](https://github.com/science-collective/website/pulls)
+by clicking the "Edit this page`r fontawesome::fa("fab fa-github")`" link at the
+side of this page.
+
+:::

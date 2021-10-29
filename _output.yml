@@ -5,6 +5,7 @@ bookdown::bs4_book:
     includes:
         before_body:
             - "resources/contribute.html"
+            - "resources/wip.html"
     repo:
         base: "https://github.com/science-collective/website"
         branch: main

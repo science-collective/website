@@ -11,7 +11,7 @@
     - Identification of areas that lack detail, focus or definition.
 * Organize and run broader half-day online conference/workshop.
     - Tasks:
-        - Send out invitations to speak at half-day online conference (28-10-2021).
+        - Send out invitations to speak at half-day online conference (25-11-2021 at 16:00 CET).
     - Topics:
         - Better publication, 
         - Who needs peer review anyway?
@@ -43,5 +43,6 @@ and guidelines
   - Explore options for sustainable funding for 'a Science Collective', particularly the possibility to raise funding through blockchain-issued tokens linked to the governance DAO
   - Read background on all the different dimensions/problems/solutions we touch on and make a review of theory, current approaches and start building a reference base
   - Explore if there is sufficient interest for a reading/jounal club or a regular lecture series
+  - Start exploring and linking to other groups and initiatives that have aligned objectives
   - Start developing specific documentation of internal processes and onboarding materials
   - Start developing educational materials at different levels

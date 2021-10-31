@@ -3,16 +3,17 @@
 ## Medium term goals (~1 year)
 
 * General web presence
-    - Register domain name, Discord server and Twitter handle
-    - Create GitLab repo and webpage
-    - Publication of the Version 0 draft manifesto for 'a Science Collective' 
+    - Register domain name, Discord server and Twitter handle: Done
+    - Create GitLab repo and webpage: Done
+    - Publication of the Version 0 draft manifesto for 'a Science Collective': Done 
 * Build community to fill necessary roles
-* Organize and run introduction and brainstorming session
+* Organize and run introduction and brainstorming session (25-11-2021 at 16:00 CET)
     - Identification of areas that lack detail, focus or definition.
 * Organize and run broader half-day online conference/workshop.
     - Tasks:
-        - Send out invitations to speak at half-day online conference (25-11-2021 at 16:00 CET).
-    - Topics:
+        - Define agenda, speakers, workshops
+        - Send out invitations to speak at half-day online conference.
+    - Initial list of possible topics:
         - Better publication, 
         - Who needs peer review anyway?
         - Easy steps to improve reproducibility / replicability practices
@@ -23,16 +24,17 @@
         - Governance of the Science-Collective
         - Building resources for the Science-Collective
         - Definition of concrete showcase projects
-* Collaborate together on projects to refine and develop collaboration standards
+* Work together on projects to refine and develop collaboration standards
 and guidelines
-* Update manifesto based on wider review and feedback: V1.0
+* Update manifesto based on wider review and feedback: V0.1
 
 ## Longer Term
 
 * Start fleshing out the Bookdown site with:
+  - More outward links and references
   - Further edits to Vision, Mission and more time planning
   - More detailed description and specification of the plans and showcase projects
-  - Add graphs, pictures and illustrations to make the site more fiendly to read and to illustrate key parts of the narrative. E.g. the research cycle and the cycle from data to knowledge graphs and back
+  - Add graphs, pictures and illustrations to make the site more friendly to read and to illustrate key parts of the narrative. E.g. the research cycle and the cycle from data to knowledge graphs and back
 
 * Other tasks:
   - Outline the different tools that we envision and set out priorities for their development

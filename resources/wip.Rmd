@@ -7,6 +7,6 @@ output: html_fragment
 `r fontawesome::fa("fas fa-exclamation-triangle")` This website is still in
 development. There's lots we need to fix and clarify. So if something doesn't
 make sense, let us know by 
-[contributing](/home/luke/Documents/organizations/science-collective/website/resources/wip.Rmd)!
+[contributing](https://github.com/science-collective/website/blob/main/.github/CONTRIBUTING.md)!
 
 :::
